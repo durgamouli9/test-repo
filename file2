@@ -1,5 +1,5 @@
 class helloo
 {
 public void main
-print(hello)
+print(hello.love)
 }
